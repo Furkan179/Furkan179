@@ -15,7 +15,7 @@ I build production-grade AI and computer vision systems — from heavy industria
 `C# (.NET 8)` `C++ (Qt Framework)` `Python` `Multi-Threading` `Docker` `SQL` `REST API`
 
 **Industrial & Hardware**
-`Siemens/Panasonic PLCs` `LMI Gocator 3D` `GigE Cameras` `TCP/IP` `FANUC/ABB/Kawasaki Robots`
+`Siemens/Panasonic PLCs` `LMI Gocator 3D` `GigE Cameras` `TCP/IP` `FANUC/ABB/Omron Robots`
 
 **GenAI & Full-Stack**
 `Gemini API` `LangChain` `React` `TypeScript` `Tauri` `Supabase`
