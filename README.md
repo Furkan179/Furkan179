@@ -2,7 +2,7 @@
 
 **AI & Computer Vision Engineer** based in Istanbul 🇹🇷
 
-I build production-grade AI and computer vision systems — from heavy industrial factory floors to modern LLM pipelines. With 3+ years of end-to-end experience, I specialize in bridging the gap between cutting-edge AI software and complex hardware (Robots, PLCs, 3D Scanners).
+I architect and deploy production-grade AI and computer vision systems—from industrial factory floors to modern LLM pipelines. With over 3 years of end-to-end experience, I specialize in bridging the gap between cutting-edge software and complex hardware ecosystems (2D/3D Vision Systems, PLCs, Industrial Robots).
 
 ---
 
